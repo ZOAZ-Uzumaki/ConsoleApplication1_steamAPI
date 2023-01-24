@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ConsoleApplication1.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamapplist.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamapps.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamappticket.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamclient.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamcontroller.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamdualsense.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamfriends.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamgamecoordinator.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamgameserver.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamgameserverstats.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamhtmlsurface.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamhttp.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteaminput.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteaminventory.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteammatchmaking.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteammusic.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteammusicremote.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamnetworking.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamnetworkingmessages.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamnetworkingsockets.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamnetworkingutils.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamparentalsettings.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamps3overlayrenderer.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamremoteplay.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamremotestorage.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamscreenshots.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamugc.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamuser.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamuserstats.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamutils.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\isteamvideo.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\matchmakingtypes.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steam_api.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steam_api_common.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steam_api_flat.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steam_api_internal.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steam_gameserver.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamclientpublic.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamencryptedappticket.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamhttpenums.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamnetworkingfakeip.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamnetworkingtypes.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamps3params.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamtypes.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steamuniverse.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\public\steam\steam_api.json">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\redistributable_bin\win64\steam_api64.dll">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\OneDrive\DocumentoOne\SteamSDK_API\sdk\redistributable_bin\win64\steam_api64.lib">
+      <Filter>Файлы ресурсов</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\OneDrive\desktopone\steam_appid.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
